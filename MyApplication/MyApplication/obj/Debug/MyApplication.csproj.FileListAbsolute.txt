@@ -1,0 +1,6 @@
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyApplication\bin\Debug\MyApplication.exe.config
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyApplication\bin\Debug\MyApplication.exe
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyApplication\bin\Debug\MyApplication.pdb
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyApplication\obj\Debug\MyApplication.csprojResolveAssemblyReference.cache
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyApplication\obj\Debug\MyApplication.exe
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyApplication\obj\Debug\MyApplication.pdb

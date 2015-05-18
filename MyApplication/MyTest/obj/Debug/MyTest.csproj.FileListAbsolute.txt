@@ -1,0 +1,7 @@
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyTest\bin\Debug\MyTest.dll
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyTest\bin\Debug\MyTest.pdb
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyTest\bin\Debug\MyApplication.exe
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyTest\bin\Debug\MyApplication.pdb
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyTest\obj\Debug\MyTest.csprojResolveAssemblyReference.cache
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyTest\obj\Debug\MyTest.dll
+c:\users\ania\documents\visual studio 2013\Projects\MyApplication\MyTest\obj\Debug\MyTest.pdb
